@@ -1,4 +1,4 @@
-## ORIGINAL README
+# ORIGINAL README
 ## AMXWrapper
 AMXWrapper is a wrapper for the pawn abstract machine library
 
