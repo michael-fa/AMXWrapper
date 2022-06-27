@@ -1,4 +1,5 @@
-# AMXWrapper
+##ORIGINAL README
+## AMXWrapper
 AMXWrapper is a wrapper for the pawn abstract machine library
 
 ```
@@ -12,3 +13,9 @@ the language and the abstract machine.
 
 This library is merely an OO-wrapper around the amx functions [the amx32 library provides](https://github.com/ikkentim/AMXWrapper/blob/master/src/amx32/amx32.def).
 
+
+
+# 🚧 This library will be maintained if bugs or anything needs to be done if the original creator doesn't have the time (respectively) to do that.
+
+## Current fixes
+ - Floating point support
